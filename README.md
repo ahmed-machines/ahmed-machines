@@ -111,12 +111,12 @@ fun_fact: "I'm a fast learner who never stops growing 🚀"
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> &nbsp; My Skill Levels
 
 ```text
-Flutter & Mobile Dev   ████████████████████░   95%
-Python                 ████████████████████░   90%
-C++ / C# / Java        ██████████████████░░░   85%
-AI & Machine Learning  ██████████████░░░░░░░   65%
-Web Development        ██████████████░░░░░░░   65%
-MySQL / Firebase       ████████████████░░░░░   80%
+Flutter & Mobile Dev   ████████████████████░
+Python                 ████████████████████░
+C++ / C# / Java        ██████████████████░░░
+AI & Machine Learning  ██████████████░░░░░░░
+Web Development        ██████████████░░░░░░░
+MySQL / Firebase       ████████████████░░░░░
 ```
 
 ---
