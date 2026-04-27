@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%92%BB+Building+Beautiful+Apps+with+Flutter;%F0%9F%A4%96+Exploring+Artificial+Intelligence;%F0%9F%8C%90+Learning+Web+Development;%F0%9F%9A%80+Fast+Learner+%7C+Never+Stop+Growing)](https://github.com/ahmed-machines)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=140&lines=%F0%9F%92%BB+Building+Beautiful+Apps+with+Flutter;%F0%9F%A4%96+Exploring+Artificial+Intelligence;%F0%9F%8C%90+Learning+Web+Development;%F0%9F%9A%80+Fast+Learner+%7C+Never+Stop+Growing)](https://github.com/ahmed-machines)
 
 <br>
 
